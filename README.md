@@ -17,6 +17,16 @@ Ethraeon Agent Kit v1.0 is a comprehensive, modular AI system framework designed
 
 ---
 
+## Citation
+⧉ ETHRAEON Agent Kit – Repository & Visual Demo Links
+📁 GitHub Repository:
+https://github.com/sjasonprohaska/ethraeon_agent_kit_repo
+
+📄 Whitepaper Mirror (CodePen):
+https://codepen.io/S-Jason-Prohaska/live/xbwZpNP/236670b8e72da6554efbe22b5da4887e
+
+---
+
 ## 📦 Modular Architecture
 
 The Ethraeon system consists of 13 core modules plus companion protocols, each serving specific operational domains:
