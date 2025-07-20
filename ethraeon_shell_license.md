@@ -111,7 +111,7 @@ For license compatibility questions or clarifications, contact the copyright hol
 For licensing questions, permissions, or clarifications:
 - **Copyright Holder**: S. Jason Prohaska
 - **Business Entity**: Ingombrante©
-- **License Inquiries**: [Contact information to be provided]
+- **License Inquiries**: [sjasonprohaskabologna@gmail.com]
 
 ---
 
