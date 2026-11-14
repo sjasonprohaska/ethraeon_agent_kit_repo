@@ -29,7 +29,9 @@ https://codepen.io/S-Jason-Prohaska/live/xbwZpNP/236670b8e72da6554efbe22b5da4887
 
 ## 📦 Modular Architecture
 
-The Ethraeon system consists of 13 core modules plus companion protocols, each serving specific operational domains:
+The Ethraeon system consists of 13 core modules plus companion protocols, each serving specific operational domains.
+
+> **Where the files are:** the `main` branch holds this README, `LICENSE.md` and `gitignore.md`. The `src` branch holds `01_ethraeon_intro.md`, `02_core_principles.md`, `03_build_instructions.md` and `ethraeon_agent_kit_references.md`; the `docs` branch holds `audit-whitepaper.md`, `whitepaper.html` and `index.html`; the `hashlog` branch holds `hash_manifest.md`; the `legal` branch holds `ethraeon_shell_license.md` and `legal_notes.md`. The module files named in the table below are not in this repository.
 
 ### Core Modules
 
@@ -69,8 +71,8 @@ The Ethraeon system consists of 13 core modules plus companion protocols, each s
 
 1. **Fork the Repository**
    ```bash
-   git clone https://github.com/[your-username]/ethraeon-agent-kit-v1.git
-   cd ethraeon-agent-kit-v1
+   git clone https://github.com/[your-username]/ethraeon_agent_kit_repo.git
+   cd ethraeon_agent_kit_repo
    ```
 
 2. **Review System Architecture**
